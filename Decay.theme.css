@@ -6,6 +6,7 @@
 
 /* -- Imported Fonts -- */
 @import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 /* -- Root / Global variables -- */
 :root {
@@ -24,7 +25,7 @@
         To use a custom font. Visit https://fonts.google.com and select one to your liking.
         Now just follow this tutorial: https://imgur.com/a/CNbw7xC
     */
-    --font: 'Fredoka';
+    --font: 'Jetbrains Mono';
 
 
   --border-radius: 5px;
